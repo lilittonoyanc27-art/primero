@@ -1,0 +1,7 @@
+{
+  "name": "Испанский Экзамен: 13 Тем (Ciencias y Lengua) на Армянском",
+  "description": "Живой скрипт устного школьного экзамена по наукам и испанскому языку (13 тем) с интерактивным переводом на армянский по клику на каждую фразу.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
